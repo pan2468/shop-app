@@ -12,7 +12,7 @@
 
 ### 개발환경
 + InteliJ
-+ Android Studio
++ Android Studio 3.3.2
 
 
 ### 트러블 이슈
