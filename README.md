@@ -13,6 +13,8 @@
 ### 테스트 배포
 + AWS 
 
+### DDD (도메인 주도 설계)
+
 ### 개발환경
 + InteliJ
 + Android Studio 3.3.2
