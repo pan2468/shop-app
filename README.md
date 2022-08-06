@@ -10,6 +10,9 @@
 + Gradle
 + MySQL
 
+### 테스트 배포
++ AWS 
+
 ### 개발환경
 + InteliJ
 + Android Studio 3.3.2
