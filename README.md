@@ -13,7 +13,8 @@
 <summary>Run 실행 오류 개선</summary>
 <div markdown="1">
 
-application.yml
+  
+#### application.yml
 ~~~
 spring:
   datasource:
