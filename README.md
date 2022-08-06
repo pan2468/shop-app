@@ -12,6 +12,7 @@
 
 ### 개발환경
 + InteliJ
++ Android Studio
 
 
 ### 트러블 이슈
